@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="v04_background_mode">Keep Lumio working in the background</string>
+    <string name="v04_background_hint">Shows a persistent notification. Keeps the Bluetooth session and in-app timers running while the app is minimized. Turn on Auto reconnect above. May stop after force-stop, reboot or aggressive battery optimization.</string>
+    <string name="v04_device_report">Device diagnostics</string>
+    <string name="v04_copy_diagnostics">Copy Bluetooth diagnostics</string>
+    <string name="v04_backup_heading">Backup and restore</string>
+    <string name="v04_backup_hint">Export devices, colors, scenes, and schedules to a JSON file. The backup includes Bluetooth addresses: share it only with people you trust. Import replaces local settings.</string>
+    <string name="v04_export">Export backup</string>
+    <string name="v04_import">Import backup</string>
+    <string name="v04_export_ok">Backup saved</string>
+    <string name="v04_import_ok">Settings imported</string>
+    <string name="v04_file_error">Cannot read or write this file</string>
+    <string name="v04_native_rainbow">Hardware rainbow (experimental)</string>
+    <string name="v04_native_hint">Uses the controller’s internal effect, which may be smoother and continue without the phone. Mode support depends on the firmware. Select a static color to exit.</string>
+    <string name="v04_connect_timer">Connect an RGB light to start a timer.</string>
+    <string name="v04_timer_background_on">Background mode is on. The notification service will try to keep the timer and BLE session alive while minimized; Android may still stop it.</string>
+    <string name="v04_schedule_background_on">Background service is on. Weekly schedules work when Bluetooth stays connected. After reboot, open Lumio again.</string>
+    <string name="v04_notification_denied">Allow notifications to keep the background service visible.</string>
+    <string name="v04_hex_color">HEX color</string>
+    <string name="v04_apply_color">Apply</string>
+</resources>

@@ -1,0 +1,7 @@
+# Lumio — локальные данные и конфиденциальность / Local privacy
+
+## Русский
+Lumio не требует учётной записи и не отправляет данные в облако. Приложение работает с локальными Bluetooth-устройствами и хранит на телефоне адреса сохранённых устройств, их имена, цвета, настройки, сцены и расписания. Для BLE-поиска Android может требовать геолокацию; Lumio не сохраняет координаты и не использует их для отслеживания. Доступ к микрофону нужен только для выбранного пользователем режима реакции на звук; аудиозапись не сохраняется и не отправляется на сервер. Экспортированный пользователем JSON-файл содержит Bluetooth-адреса и настройки. Пользователь сам выбирает место хранения и получателей. Фоновый режим запускается только по выбору пользователя и отображает системное уведомление. В проекте не предусмотрены реклама, аналитика и телеметрия.
+
+## English
+Lumio requires no account and does not upload data to a cloud service. The app controls local Bluetooth devices and stores their addresses, names, colors, scenes, and schedules locally. Android may require location permission for BLE discovery; Lumio does not collect or store your coordinates. Microphone access is used only when you enable sound-reactive mode; audio is not saved or uploaded. User-exported JSON backups contain Bluetooth addresses and configuration, and their destination is controlled by the user. The optional background service is user-initiated and uses a system notification. This project does not include ads, analytics, or telemetry.

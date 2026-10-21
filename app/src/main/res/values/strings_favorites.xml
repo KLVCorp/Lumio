@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="favorite_colors">Saved colors</string>
+    <string name="favorite_add">+ Save</string>
+    <string name="favorite_empty">Tap Save to keep the selected color.</string>
+    <string name="favorite_remove_title">Remove saved color?</string>
+    <string name="favorite_remove">Remove</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="favorite_colors">Мои цвета</string>
+    <string name="favorite_add">+ Сохранить</string>
+    <string name="favorite_empty">Нажми «Сохранить», чтобы добавить выбранный цвет.</string>
+    <string name="favorite_remove_title">Удалить сохранённый цвет?</string>
+    <string name="favorite_remove">Удалить</string>
+</resources>

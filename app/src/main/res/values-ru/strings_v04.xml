@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="v04_background_mode">Работа в фоновом режиме</string>
+    <string name="v04_background_hint">Постоянное уведомление помогает сохранить соединение и таймеры при сворачивании приложения. Выше включите автоподключение. Принудительная остановка, перезагрузка и энергосбережение могут прервать работу.</string>
+    <string name="v04_device_report">Диагностика устройства</string>
+    <string name="v04_copy_diagnostics">Скопировать диагностику Bluetooth</string>
+    <string name="v04_backup_heading">Резервное копирование</string>
+    <string name="v04_backup_hint">Экспорт устройств, цветов, сцен и расписаний в JSON. Файл содержит Bluetooth-адреса — не передавайте его посторонним. Импорт заменяет локальные настройки.</string>
+    <string name="v04_export">Сохранить резервную копию</string>
+    <string name="v04_import">Восстановить из файла</string>
+    <string name="v04_export_ok">Резервная копия сохранена</string>
+    <string name="v04_import_ok">Настройки импортированы</string>
+    <string name="v04_file_error">Не удалось прочитать или записать файл</string>
+    <string name="v04_native_rainbow">Встроенная радуга (эксперимент)</string>
+    <string name="v04_native_hint">Запускает эффект внутри контроллера: он может быть плавнее и работать без телефона. Поддержка зависит от прошивки. Для выхода выберите обычный цвет.</string>
+    <string name="v04_connect_timer">Подключите RGB-ленту, чтобы запустить таймер.</string>
+    <string name="v04_timer_background_on">Фоновый режим включён. Сервис с уведомлением попытается сохранить Bluetooth и таймер при сворачивании, но Android всё ещё может остановить работу.</string>
+    <string name="v04_schedule_background_on">Фоновый режим включён. Расписание работает при активном Bluetooth-соединении. После перезагрузки телефона откройте Lumio.</string>
+    <string name="v04_notification_denied">Разрешите уведомления, чтобы видеть работу фонового сервиса.</string>
+    <string name="v04_hex_color">Цвет HEX</string>
+    <string name="v04_apply_color">Применить</string>
+</resources>
